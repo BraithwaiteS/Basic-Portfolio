@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/grey.jpeg);
+    margin: 50px;
+}
+header{
+    background-color: #00b3b3;
+}
+#bio-image{
+    float: left;
+    margin: 20px;
+}
+#bio{
+    background-color: #ffffff;
+    color: #00b3b3;
+}
+p{
+    margin: 10px;
+    padding-bottom: 20px;
+    color: grey;
+    line-height: 300%;
+}
+h1{
+    padding: 10px;
+    margin: 10px;
+}
